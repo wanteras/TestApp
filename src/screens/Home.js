@@ -252,9 +252,8 @@ const restaurantData = [
         duration: "10- 15 min",
         location:{
 
-            latitude:1.5645644745464635,
-            longitude: 110.4535346353,
-
+            latitude:47.023276,
+            longitude: 28.834718,
         },
         courier: {
             avatar: images.avatar_4,
@@ -287,8 +286,8 @@ const restaurantData = [
         duration: "10- 15 min",
         location:{
 
-            latitude:1.594564745464635,
-            longitude: 110.4535346353,
+            latitude:47.023276,
+            longitude: 28.834718,
 
         },
         courier: {
@@ -352,8 +351,8 @@ const restaurantData = [
         duration: "35- 50 min",
         location:{
 
-            latitude: 1.594564745464635,
-            longitude: 110.4535346353,
+            latitude:47.023276,
+            longitude: 28.834718,
 
         },
         courier: {
